@@ -1,4 +1,4 @@
-# NextMove 🚀  
+# NextMove 🚀 - Startup Pitch Platform 
 ### Where Bold Ideas Meet the Right Eyes
 
 NextMove is a full-stack startup pitch platform that connects visionary founders with investors who believe in their ideas.  
